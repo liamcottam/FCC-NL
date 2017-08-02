@@ -1,0 +1,382 @@
+{
+  "errors": [
+    {
+      "message": "'NoneType' object has no attribute 'reviews'",
+      "locations": [
+        {
+          "line": 1,
+          "column": 102
+        }
+      ]
+    }
+  ],
+  "data": {
+    "search": {
+      "business": [
+        {
+          "id": "the-spon-gate-coventry",
+          "name": "The Spon Gate",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 3,
+              "text": "During the day this place is a pub with restaurant elements, at night it turns into a grimy club. \nI Used to hang out in places like this as a student. It..."
+            },
+            {
+              "rating": 3,
+              "text": "I went here for dinner a while ago, this is part of the Wetherspoons chain.  \n\nService was very quick, we ordered nachos to share, which were amazing with..."
+            }
+          ]
+        },
+        {
+          "id": "harvester-skydome-coventry-coventry",
+          "name": "Harvester Skydome Coventry",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "This place is huge, very large car park and some nice outdoor areas when the weather is good. Some good beer garden vibes too.\n\nPlenty to choose from the..."
+            },
+            {
+              "rating": 4,
+              "text": "I had lunch here a few weeks ago, and to say I am very impressed.\n\nThe restaurant was very clean and well presented, bathrooms were really clean! The..."
+            },
+            {
+              "rating": 2,
+              "text": "Slow service, long wait for food and warm when it turned up. Wasn't  even that busy. Won't be returning anytime soon."
+            }
+          ]
+        },
+        {
+          "id": "ikea-coventry-coventry-2",
+          "name": "IKEA Coventry",
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/ULjZCmVncAmWbVmp7J1OkQ/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 5,
+              "text": "I am a massive IKEA fan! Each one is the same... but different. Most have their basic products, but sometimes their minor product range is different..."
+            },
+            {
+              "rating": 4,
+              "text": "I'm lucky enough to live slap bang inbetween two Ikea's! Aren't I lucky I hear you cry?\n\nIf I lived in Coventry I'd probably be in this one an awful lot..."
+            },
+            {
+              "rating": 5,
+              "text": "Everything you need for the home is here under one roof.\n\nBeware once you enter you are unlikely to reappear for a couple of hours later or more.  The..."
+            }
+          ]
+        },
+        {
+          "id": "skydome-arena-coventry-2",
+          "name": "Skydome Arena",
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/-XY85laod2UyeNsHD8L5Ew/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 3,
+              "text": "Went to watch a movie at the Odeon Cinema attached to the SkyDome.\nAs you walk in the lobby you have to go up the escalater to buy your tickets. Once..."
+            },
+            {
+              "rating": 5,
+              "text": "Day or night Skydome is the place to be. With cinemas, variety eating outlets and a lively nightlife theres not much you won't find here. Bars for all..."
+            }
+          ]
+        },
+        {
+          "id": "chicago-rock-cafe-coventry",
+          "name": "Chicago Rock Cafe",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "Chicago Rock is a chain brand so if you have been to one then you'll know exactly what this one is like also.\nIt plays your typical music, generalising to..."
+            },
+            {
+              "rating": 5,
+              "text": "Me and a friend came here last week while visiting Coventry. I have never been to a chicago rock cafe before but I was really impressed, as was my friend..."
+            },
+            {
+              "rating": 4,
+              "text": "Located in the Sky Dome this Chicago Rock is exactly the same as all the other Chicago Rocks so if you've been to one you've been to them all! They..."
+            }
+          ]
+        },
+        {
+          "id": "planet-ice-coventry",
+          "name": "Planet Ice",
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/NzKVm8jMoTr9HT0_hpF9iw/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 3,
+              "text": "This was a first for me and I caught half the game tonight.\nThe venue is ok... The ladies toilets were locked and the disabled ones were not.. very inviting..."
+            },
+            {
+              "rating": 4,
+              "text": "For ice-skating: a decent place to go, good skates you can rent if you use thick socks, nice athmosphere!\nFor coming to hockey games: good performance of..."
+            },
+            {
+              "rating": 3,
+              "text": "had real good time. meal deal voucher a con tho."
+            }
+          ]
+        },
+        {
+          "id": "the-orange-house-coventry",
+          "name": "The Orange House",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 3,
+              "text": "Orange House is something different. It is a traditional public house with a twist, has an emphasis on good food, drink and service.\n\n\n Music is at a level..."
+            }
+          ]
+        },
+        {
+          "id": "lava-and-ignite-coventry",
+          "name": "Lava & Ignite",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "great night out, used to go here all the time in uni! cheap to get in, good location with the taxis all lined up at the end of the night just outside!"
+            },
+            {
+              "rating": 5,
+              "text": "Fabulous night out!\n\n\n I am a third year at Coventry Uni and have hardly missed a wednesday night out since I began in 2006!!\n\n\n The music can get a little..."
+            },
+            {
+              "rating": 4,
+              "text": "Whenever I go to Lava & Ignite I have a good time, but I dont think it's the best place to go. They say they have three different rooms, but one is..."
+            }
+          ]
+        },
+        {
+          "id": "odeon-coventry",
+          "name": "Odeon",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "big cinema, great location near restaurants and bars the parking is also decent and you can go straight to the cinema from the ca park without cutting..."
+            },
+            {
+              "rating": 1,
+              "text": "Clean the cinema rooms it is dirty and expensive"
+            },
+            {
+              "rating": 3,
+              "text": "This is the number one place to go to see a film in Coventry.\n\n\n Located centrally in the town center, next to ikea, it is a great place to go to see a film..."
+            }
+          ]
+        },
+        {
+          "id": "careys-nightclub-and-bar-coventry",
+          "name": "Careys Nightclub & Bar",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/6nx94tQhdp-M6wYNAkLzRA/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "brilliant nights had here - yes the place is quite small, it feels a bit claustrophobic sometimes but it adds to the grimey underground club feel that goes..."
+            },
+            {
+              "rating": 3,
+              "text": "I enjoy Carey's once I get in there . the doormen act like bullies and are are intimidating and condescending. They act as if one should be like a VIP to be..."
+            },
+            {
+              "rating": 4,
+              "text": "Careys is a nightclub upstairs and then a bar downstairs. It is close to the city centre of Coventry.\n\n\n Downstairs often had bankds on including Covenrty..."
+            }
+          ]
+        },
+        {
+          "id": "rileys-sports-bar-coventry-coventry",
+          "name": "Rileys Sports Bar Coventry",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/YaoFCVI_wgDw-1djT6a_RA/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "A snooker hall can be either 1. A sleazy dive where the floors are sticky and the people ain't pretty. Or 2. Essentially an RSL/bowls club with a league..."
+            },
+            {
+              "rating": 3,
+              "text": "Your typical snooker club, its very dark and dingy! Upstairs they have a good few tables. Its very quiet during the day mid week, guess everyones at work...."
+            }
+          ]
+        },
+        {
+          "id": "the-old-windmill-coventry",
+          "name": "The Old Windmill",
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/dCF9sFXmC-J1fpgTG3DybQ/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "The premier old man pub in Coventry. The old men go here to be seen, apparently. Nestled in medieval Spon street with the flustercuck of JJs+Carters on one..."
+            },
+            {
+              "rating": 5,
+              "text": "Great pub. Great beer. Great pork pie......in fact justca great experience. This is a very old pub that is very quaint. It has lots of little-known rooms to..."
+            },
+            {
+              "rating": 4,
+              "text": "The Windmill has long been a fave of mine, and for the last poster I can confirm they now do real cider (although only from boxes, alas) like Old Rosie and..."
+            }
+          ]
+        },
+        {
+          "id": "turmeric-gold-restaurant-coventry",
+          "name": "Turmeric Gold Restaurant",
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/5XstYH73SM3rJx7JubWSBA/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 2,
+              "text": "Indian food is tough. It really embodies a range of cultures and culinary dialects. While I've eaten it all my life and I can cook a wee bit, I still don't..."
+            },
+            {
+              "rating": 3,
+              "text": "I would rate this place highly for the slightly mad decor alone. On historic Spon Street, Turmeric Gold is housed in a wooden beamed, 16th century building..."
+            },
+            {
+              "rating": 5,
+              "text": "Beautiful place, staff really friendly and the food is delicious."
+            }
+          ]
+        },
+        {
+          "id": "queens-road-restaurant-bar-and-grill-coventry",
+          "name": "Queens Road Restaurant, Bar and Grill",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/_XtVA3erHoMRkdqGF8xtDQ/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 5,
+              "text": "My husband and I took our parents out to celebrate a slew of recent holidays and birthdays, so it was a wonderful opportunity to get dressed up and dine at..."
+            },
+            {
+              "rating": 5,
+              "text": "This is a definite 5 start review. As a new restaurant, things can often be overlooked and not be as good as they should be...\n\nBut that's not the case with..."
+            }
+          ]
+        },
+        {
+          "id": "the-aardvark-coventry",
+          "name": "The Aardvark",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/PU6pv99ExUX5sIiFuucwBg/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 3,
+              "text": "I visited this pub when working in Coventry, as it was the closest pub to the office.  The pub is primarily targeted at students, what with it being part of..."
+            },
+            {
+              "rating": 4,
+              "text": "the aardvark is part of the it's a scream chain of pubs. This pub is located just out side of the ring road but just by the skydome.\n\n\n It is close to..."
+            },
+            {
+              "rating": 4,
+              "text": "Good food , great drinks, worth going to if you have time as its not that packed. The pub is part of the scream chain pubs. So you can expect those good..."
+            }
+          ]
+        },
+        {
+          "id": "the-shakespeare-coventry",
+          "name": "The Shakespeare",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 3,
+              "text": "The place was heaving and seemed to be a trendy kinda hangout the kind of place you would go for a drink, before going night clubbing. I saw a live band..."
+            },
+            {
+              "rating": 3,
+              "text": "Fairly generic, but quite enjoyable pub. Sells the usual alchohol, with a few extra unusual beers such as Peeterman. Puts on regular bands and has a..."
+            }
+          ]
+        },
+        {
+          "id": "blue-orchid-coventry",
+          "name": "Blue Orchid",
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/SbUkDj3UOL6ceCVhsiXUxw/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 4,
+              "text": "I've been here a few times with family and have always been impressed with the food. There's not a huge selection of dishes, but what they serve is very..."
+            }
+          ]
+        },
+        {
+          "id": "lux-cafe-coventry",
+          "name": "Lux Cafe",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": null
+        },
+        {
+          "id": "blue-bistro-coventry",
+          "name": "Blue Bistro",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/VsPUMwCIMPvaWCHZqKaUGw/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 5,
+              "text": "I had a lovely meal there on Saturday. I had been there before and was also impressed so wanted to have a tate at their new menu. \nThe ambiance is relaxed,..."
+            },
+            {
+              "rating": 1,
+              "text": "The menu looks really appetising. The setting, tables and chairs are very authentic and unusual. Staff is super friendly. However, they miss the most..."
+            },
+            {
+              "rating": 1,
+              "text": "I reviewed this restaurant almost two years ago (January 2014) and gave it five stars. In the intervening time, I've returned on multiple occasions. Each..."
+            }
+          ]
+        },
+        {
+          "id": "1450-cafe-bar-coventry",
+          "name": "1450 Cafe Bar",
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "reviews": [
+            {
+              "rating": 2,
+              "text": "I really want to like this place...it's beautifully furnished and is well known for their beer collection.  Our experience started out trying to go there on..."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
